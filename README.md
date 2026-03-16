@@ -70,6 +70,3 @@ The model explained 84% of the variance in median house prices using default hyp
 - LightGBM handles missing values natively — no imputation needed before training
 - Use `LGBMRegressor` for continuous targets and `LGBMClassifier` for categorical ones
 
----
-
-*Part of my daily machine learning practice series.*
